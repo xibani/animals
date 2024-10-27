@@ -2,3 +2,5 @@ Rusty
 tom
 chucky
 txiba
+carol
+radagast
